@@ -9,7 +9,7 @@
 ---
 
 ## **Overview**
-This project documents an investigation of a suspicious downloaded file using Sysmon logs.
+This project analyzes a phishing attachment using Sysmon event logs to trace its download, extraction, execution, and attempted external communication.
 
 ---
 
