@@ -133,6 +133,15 @@ In this case:
 
 ---
 
+# MITRE ATT&CK Mapping
+
+| Stage | Technique | ID |
+|-------|-----------|----|
+| Initial Access | Phishing: Attachment | T1566.001 |
+| Execution | User Execution (Malicious File) | T1204.002 |
+| Command & Control | DNS-Based C2 | T1071.004 |
+
+
 # **Conclusion**
 There is **no evidence of data exfiltration** based on the available Sysmon logs.
 
